@@ -1,0 +1,17 @@
+img{
+    width: 400px;
+    object-fit: cover;
+}
+h1,h2{
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.imagens{
+    margin-left: 270px;
+}
+.mico{
+    width: 452px;
+}
